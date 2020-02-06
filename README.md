@@ -42,7 +42,7 @@ See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
 
 ### Enviroment variables in quasar.conf.js
 
-BACKEND_ENDPOINT - url to the Hasura Becked Plus server app
-APP_ID - id of the App in Hasura
+- BACKEND_ENDPOINT - url to the Hasura Becked Plus server app
+- APP_ID - id of the App in Hasura
 
 You must run own Hasura server and Hasura Becked Plus - this is tested with this release [Fork Hasura Beckend Plus](https://github.com/suplere/hasura-backend-plus) and [Fork Nost SDK](https://github.com/suplere/nhost-js-sdk).
